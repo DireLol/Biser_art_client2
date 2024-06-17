@@ -1,0 +1,26 @@
+<svg width="37.000000" height="49.000000" viewBox="0 0 37 49" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_17_825_dd" x="-0.932129" y="3.472412" width="37.088135" height="45.518066" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="4" dy="10"/>
+			<feGaussianBlur stdDeviation="2"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<linearGradient x1="7.862696" y1="3.472475" x2="24.588068" y2="29.517908" id="paint_linear_17_826_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#7C572C"/>
+			<stop offset="1.000000" stop-color="#4D3519"/>
+		</linearGradient>
+	</defs>
+	<g filter="url(#filter_17_825_dd)">
+		<rect id="ten_knopki" x="1.067871" y="3.472412" rx="12.544039" width="25.088078" height="29.518148" fill="#573C1C" fill-opacity="1.000000"/>
+	</g>
+	<rect id="knopka" x="-0.500000" y="-0.000244" rx="12.544039" width="25.088078" height="29.518148" fill="url(#paint_linear_17_826_0)" fill-opacity="1.000000"/>
+	<path id="Strelka" d="M11.82 14.91L15.45 18.1M15.45 11.42L11.82 14.87" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+</svg>
